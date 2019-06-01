@@ -33,7 +33,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "br.com.ciolfi.chat_online"
+        applicationId "br.edu.ifsuldeminas.setperiodo.forum_flutter"
         minSdkVersion 16
         targetSdkVersion 28
         multiDexEnabled true

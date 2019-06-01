@@ -1,4 +1,4 @@
-package br.com.ciolfi.chat_online;
+package br.edu.ifsuldeminas.setperiodo.forum_flutter;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
